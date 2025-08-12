@@ -1,3 +1,12 @@
+<!--
+ * @Descripttion: Hamilton Codes
+ * @version: 1.0.0
+ * @Author: Hamilton|寒江雪
+ * @Date: 2025-08-07 20:36:44
+ * @LastEditors: Hamilton|寒江雪
+ * @LastEditTime: 2025-08-12 09:48:17
+ * Copyright (c) 2025 by FrostHamilton, All Rights Reserved. 
+-->
 ## Hamilton | 寒江雪
 
 <a href="#">
@@ -30,6 +39,8 @@
 ## Programming Website Account
 
 Blog: https://hamiltonblog.cn/
+
+Kaggle: https://www.kaggle.com/frosthamilton
 
 Leetcode(China): https://leetcode.cn/u/elegant-mooreveq/
 
